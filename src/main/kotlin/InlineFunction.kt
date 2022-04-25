@@ -1,8 +1,8 @@
 /***
- * Lamda function akan pada akhirnya akan di compile menjadi object
+ * Lamda function pada akhirnya akan di compile menjadi object
  * oleh karena itu jika terlalu sering menggunakan lamda function akan
  * mempengaruhi performance oleh karena itu dibutuhkan inline function
- * yg akan menduplikat lamda function sehingga tidak perlu membuat objec terus terusan
+ * yg akan menduplikat lamda function sehingga tidak perlu membuat object terus terusan
  *
  * jika kita ingin ada parameter lamda yg tidak ingin dibuat menjadi inline maka
  * dapat dibuat menjadi object dengan menambahkan kata noinline

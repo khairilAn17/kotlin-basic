@@ -23,7 +23,7 @@ fun main() {
     var myCompleteName = lamdaTwoParams("Khairil", "Anwar");
     println(myCompleteName)
 
-    //Method Referecen yaitu menjadi fungsi dengan parameter dan nilai balikkan yang sama menjadi lamda function
+    //Method Reference yaitu menjadi fungsi dengan parameter dan nilai balikkan yang sama menjadi lamda function
     val cthMethodRef: (String) -> String = ::address
 
     println(cthMethodRef("jl Medan Kutacane"))
