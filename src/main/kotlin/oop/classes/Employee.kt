@@ -3,7 +3,7 @@ package oop.classes
 /***
  * Inheritance di kotlin setiap class child hanya boleh punya satu class parent, namun parent class bisa
  * punya banyak child
- * Secara standart class di kotlin itu final (tidak dapat diwarikan), agar bisa diwariskan harus menggunakan
+ * Secara standar class di kotlin itu final (tidak dapat diwarikan), agar bisa diwariskan harus menggunakan
  * kata kunci open
  * semua yg dimiliki parent class dapat diwarisi oleh child
  * -----------------------------------------------------
